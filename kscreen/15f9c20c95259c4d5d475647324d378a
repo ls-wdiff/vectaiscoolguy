@@ -1,0 +1,27 @@
+[
+    {
+        "enabled": true,
+        "id": "03323ef3b69f169a02192add7745ea76",
+        "metadata": {
+            "fullname": "xrandr-Dell Inc.-DELL S3222DGM-2BT8KK3",
+            "name": "DP-2"
+        },
+        "mode": {
+            "refresh": 165.0800018310547,
+            "size": {
+                "height": 1440,
+                "width": 2560
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "priority": 1,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 1
+    }
+]
